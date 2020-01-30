@@ -33,6 +33,6 @@ Add this to your CSS stylesheet and edit to your liking.
         font-weight: 600;
     }
 
----
+### Tip
 
 BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
